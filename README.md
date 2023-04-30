@@ -1,4 +1,4 @@
-##Lista I de Exercícios
+#Lista I de Exercícios
 
 **Tecnologias utilizadas para a realização dos
  exercícios:**
